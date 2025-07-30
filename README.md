@@ -3,7 +3,7 @@ International Education Cost Analysis
 This project explores the financial dimensions of pursuing higher education across a wide spectrum of universities and countries. Using a rich dataset covering tuition fees, living costs, visa charges, rent, insurance, and currency exchange rates, the analysis highlights the economic diversity and complexity of studying abroad.
 
 Tools & Technologies
-- Pandas and NumPy for data wrangling and statistical analysis
+- Pandas and NumPy for data wrangling and statistical analysis,with zero plotting or charting—just clean stats.
 - Jupyter Notebook for interactive exploration
   
 
